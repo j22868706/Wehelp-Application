@@ -1,0 +1,37 @@
+.frame{
+    width: 1250px;
+    margin: 50px auto;
+    border:none;
+    overflow: hidden; /* 避免長方框下面顯示不正常 */
+  }
+  .who{
+    width: 300px;
+    float:left; /* 圖片在左邊 */
+    padding-left: 40px;padding-top: 30px;
+  }
+  .who img{
+    display: block;
+    width:100%;
+  }
+  .text{
+    float: right;  /* 文字在右邊 */
+    width: 800px;
+    padding: 20px 20px 0px 0px;
+  }
+.whor{
+    width: 300px;
+    float:right; /* 圖片在左邊 */
+    padding-left: 40px;padding-top: 30px;
+  }
+.whor img{
+    display: block;
+    width:100%;
+  }
+.textl{
+    float: left;  /* 文字在右邊 */
+    width: 800px;
+    padding: 20px 20px 0px 0px;
+  }
+.title1{
+  font-size: 22px;
+}
