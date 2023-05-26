@@ -7,4 +7,4 @@ CSS - float.
 
 The Ordered List element - ol. 
 1. 表示有數字的序列標籤.  
-2. 可以使用start 標籤 如 <ol start="4">，標籤則由4開始
+2. 可以使用start 標籤 如 start="4"，標籤則由4開始. 
